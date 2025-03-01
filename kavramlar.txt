@@ -1,0 +1,8 @@
+Abstract Class (Soyut Sinif) Nedir?
+Abstract class (soyut sinif), dogrudan nesne olusturulamaz ancak türetilen siniflara ortak özellikler ve metotlar saglayan bir sinif türüdür. Hem gövdeli (normal) hem de gövdesiz (soyut) metotlar içerebilir ve kalitim için kullanilir. Soyut siniftan türeyen siniflar, içindeki abstract metotlari ezmek (override) zorundadir, böylece her türetilen sinif kendi özel davranisini tanimlayabilir. Bu sayede kod tekrarini azaltarak ortak davranislari merkezi bir yerde tanimlamaya yardimci olur. 
+Abstraction (Soyutlama) Nedir?
+Abstraction (soyutlama), nesne yönelimli programlamada (OOP) karmasikligi azaltmak ve sadece önemli detaylari göstermek için kullanilan bir tekniktir. C#'ta abstract class veya interface kullanilarak uygulanir; gereksiz detaylari gizleyerek yalnizca gerekli özellikleri ve davranislari ön plana çikarir. Bu sayede kod daha temiz, anlasilir ve yönetilebilir hale gelirken, kullanici yalnizca neyin yapilacagini bilir ancak nasil yapildigini bilmek zorunda kalmaz.
+Polymorphism (C¸ok Bic¸imlilik) Nedir?
+Polymorphism (çok biçimlilik), nesne yönelimli programlamada (OOP) ayni isimdeki metodun farkli siniflarda farkli sekillerde çalismasini saglayan bir özelliktir. C#'ta method overriding (metot ezme) ve method overloading (metot asiri yükleme) ile uygulanir; bir üst siniftaki metodu alt siniflarda yeniden tanimlayarak (override) veya ayni isimli metodu farkli parametrelerle kullanarak (overload) gerçeklestirilir. Bu sayede kod esnek, ölçeklenebilir ve yönetilebilir olurken, nesneler kendi türlerine uygun davranislar sergileyebilir.
+
+Irem Nur Kütük
