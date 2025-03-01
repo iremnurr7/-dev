@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\lenovo\\onedrive\\masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBD6F3-3EB2-460E-A03B-1C2DB08E7EDB}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\\u00F6dev1\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "toyota.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\toyota.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\toyota.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\toyota.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:14:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\Program.cs",
+              "RelativeToolTip": "\u00F6dev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:13:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "araba.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\araba.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\araba.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\araba.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:13:36.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "audi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\audi.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\audi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\audi.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:14:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "togg.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\togg.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\togg.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\togg.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\togg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:14:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\mercedes.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\mercedes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\mercedes.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:13:59.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "porsche.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\porsche.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\porsche.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\porsche.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:13:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bmw.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\bmw.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\\u00F6dev1\\bmw.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\c#\\\u00F6dev\\\u00F6dev\\\u00F6dev\\\u00F6dev1\\bmw.cs",
+              "RelativeToolTip": "\u00F6dev\\\u00F6dev1\\bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:13:43.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
